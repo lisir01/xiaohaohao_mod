@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "xiaohaohao_mod",
+	"version": "${version}",
+	"name": "Xiaohaohao Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!","114514"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/xiaohaohao-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.xiaohaohao_mod.XiaohaohaoMod"
+		],
+		"client": [
+			"name.xiaohaohao_mod.XiaohaohaoModClient"
+		],
+		"fabric-datagen": [
+			"name.xiaohaohao_mod.XiaohaohaoModDataGenerator"
+		]
+	},
+	"mixins": [
+		"xiaohaohao-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
