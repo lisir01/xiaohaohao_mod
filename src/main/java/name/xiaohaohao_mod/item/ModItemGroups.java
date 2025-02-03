@@ -1,6 +1,7 @@
 package name.xiaohaohao_mod.item;
 
 import name.xiaohaohao_mod.XiaohaohaoMod;
+import name.xiaohaohao_mod.block.ModBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.ItemGroup;
@@ -21,7 +22,8 @@ public class ModItemGroups {
             .entries((displayContext,entries) ->{
                 entries.add(ModItems.MONEY);
                 entries.add(ModItems.HALF_A_MILLION_MARKS);
-                entries.add(Blocks.COMMAND_BLOCK);
+
+                entries.add(ModBlocks.TINGJIESTONE);
     }).build());
 
     public static void registerModItemGroups(){

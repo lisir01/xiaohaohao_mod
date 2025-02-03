@@ -1,5 +1,6 @@
 package name.xiaohaohao_mod;
 
+import name.xiaohaohao_mod.block.ModBlocks;
 import name.xiaohaohao_mod.item.ModItemGroups;
 import name.xiaohaohao_mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -24,6 +25,7 @@ public class XiaohaohaoMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModItemGroups.registerModItemGroups();
-		LOGGER.info("你爹来啦！");
+		ModBlocks.registerModBlocks();
+		LOGGER.info("这个，这个，还有这个，统统启动！");
 	}
 }
