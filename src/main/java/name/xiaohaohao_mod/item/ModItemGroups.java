@@ -6,6 +6,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
 import net.minecraft.item.MinecartItem;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -24,6 +25,7 @@ public class ModItemGroups {
                 entries.add(ModItems.HALF_A_MILLION_MARKS);
 
                 entries.add(ModBlocks.TINGJIESTONE);
+
     }).build());
 
     public static void registerModItemGroups(){
