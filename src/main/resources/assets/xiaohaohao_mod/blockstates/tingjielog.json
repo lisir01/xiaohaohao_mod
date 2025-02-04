@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "xiaohaohao_mod:block/tingjielog_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "xiaohaohao_mod:block/tingjielog"
+    },
+    "axis=z": {
+      "model": "xiaohaohao_mod:block/tingjielog_horizontal",
+      "x": 90
+    }
+  }
+}

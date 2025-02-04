@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "xiaohaohao_mod:block/tingjielog_top",
+    "side": "xiaohaohao_mod:block/tingjielog"
+  }
+}
