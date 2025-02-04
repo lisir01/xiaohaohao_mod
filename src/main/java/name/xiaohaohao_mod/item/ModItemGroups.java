@@ -26,6 +26,7 @@ public class ModItemGroups {
 
                 entries.add(ModBlocks.TINGJIESTONE);
                 entries.add(ModBlocks.TINGJIELOG);
+                entries.add(ModBlocks.TINGJIELEAVES);
 
     }).build());
 
