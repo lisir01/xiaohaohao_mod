@@ -10,6 +10,7 @@ import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.sound.BlockSoundGroup;
+import net.minecraft.util.ColorCode;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.math.Direction;
 
@@ -21,6 +22,7 @@ public class ModBlocks {
     public static final Block TINGJIECOBBLESTONE=register("tingjiecobblestone",new Block(AbstractBlock.Settings.create().requiresTool().strength(3.5f,6.0f)));
     public static final Block TINGJIELOG =register("tingjielog",createLogBlock(MapColor.OAK_TAN, MapColor.SPRUCE_BROWN));
     public static final Block TINGJIELEAVES = register("tingjieleaves", createLeavesBlock(BlockSoundGroup.GRASS));
+    public static final Block TINGJIESAND = register("tingjiesand", new ColoredFallingBlock(new ColorCode(14406560), AbstractBlock.Settings.create().mapColor(MapColor.PALE_YELLOW).instrument(NoteBlockInstrument.SNARE).strength(0.5F).sounds(BlockSoundGroup.SAND)));
 
 
 //    以下是原木注册调用的方法

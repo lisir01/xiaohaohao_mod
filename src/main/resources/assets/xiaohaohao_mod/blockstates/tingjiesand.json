@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "xiaohaohao_mod:block/tingjiesand"
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjiesand",
+        "y": 90
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjiesand",
+        "y": 180
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjiesand",
+        "y": 270
+      }
+    ]
+  }
+}
