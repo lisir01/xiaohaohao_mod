@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "group": "oak_log_to_tingjielog",
+  "category": "blocks",
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:oak_log"
+  },
+  "result": {
+    "id": "xiaohaohao_mod:tingjielog"
+  }
+}

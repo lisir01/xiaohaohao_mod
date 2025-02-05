@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "group": "stone_to_tingjiestone",
+  "category": "blocks",
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": {
+    "id": "xiaohaohao_mod:tingjiestone"
+  }
+}

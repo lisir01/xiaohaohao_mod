@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "group": "tingjielog_to_log",
+  "category": "blocks",
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "xiaohaohao_mod:tingjielog"
+  },
+  "result": {
+    "id": "minecraft:oak_log"
+  }
+}
