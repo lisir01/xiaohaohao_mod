@@ -18,6 +18,7 @@ import net.minecraft.util.math.Direction;
 public class ModBlocks {
 
     public static final Block TINGJIESTONE =register("tingjiestone",new Block(AbstractBlock.Settings.create().strength(3.0f,6.0f)));
+    public static final Block TINGJIECOBBLESTONE=register("tingjiecobblestone",new Block(AbstractBlock.Settings.create().strength(3.5f,6.0f)));
     public static final Block TINGJIELOG =register("tingjielog",createLogBlock(MapColor.OAK_TAN, MapColor.SPRUCE_BROWN));
     public static final Block TINGJIELEAVES = register("tingjieleaves", createLeavesBlock(BlockSoundGroup.GRASS));
 

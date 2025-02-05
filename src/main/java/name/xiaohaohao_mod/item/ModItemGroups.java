@@ -19,6 +19,7 @@ public class ModItemGroups {
                 entries.add(ModItems.HALF_A_MILLION_MARKS);
 
                 entries.add(ModBlocks.TINGJIESTONE);
+                entries.add(ModBlocks.TINGJIECOBBLESTONE);
                 entries.add(ModBlocks.TINGJIELOG);
                 entries.add(ModBlocks.TINGJIELEAVES);
 
