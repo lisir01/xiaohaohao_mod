@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "tingjieingot",
+  "ingredient": {
+    "item": "xiaohaohao_mod:black_tingjieore"
+  },
+  "result": {
+    "id": "xiaohaohao_mod:tingjieingot"
+  }
+}
