@@ -16,14 +16,17 @@ public class ModItemGroups {
             .entries((displayContext,entries) ->{
                 entries.add(ModItems.MONEY);
                 entries.add(ModItems.HALF_A_MILLION_MARKS);
-                entries.add(ModItems.RAW_TINGJIEMINE);
-                entries.add(ModItems.TINGJIEINGOT);
 
                 entries.add(ModBlocks.TINGJIESTONE);
                 entries.add(ModBlocks.TINGJIECOBBLESTONE);
                 entries.add(ModBlocks.TINGJIESAND);
                 entries.add(ModBlocks.TINGJIELOG);
                 entries.add(ModBlocks.TINGJIELEAVES);;
+
+                entries.add(ModItems.RAW_TINGJIEMINE);
+                entries.add(ModItems.TINGJIEINGOT);
+                entries.add(ModBlocks.BLACK_TINGJIEORE);
+                entries.add(ModBlocks.TINGJIEORE);
 
 
 
