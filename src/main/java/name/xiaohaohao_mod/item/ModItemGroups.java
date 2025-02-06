@@ -2,13 +2,12 @@ package name.xiaohaohao_mod.item;
 
 import name.xiaohaohao_mod.XiaohaohaoMod;
 import name.xiaohaohao_mod.block.ModBlocks;
+import net.minecraft.entity.Entity;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
-import net.minecraft.registry.Registries;
-import net.minecraft.registry.Registry;
+import net.minecraft.registry.*;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
-
 
 public class ModItemGroups {
     public static final ItemGroup XIAOHAOHAO_GROUP = Registry.register(Registries.ITEM_GROUP,Identifier.of(XiaohaohaoMod.MOD_ID,"xiaohaohao_group"),
@@ -18,14 +17,18 @@ public class ModItemGroups {
                 entries.add(ModItems.MONEY);
                 entries.add(ModItems.HALF_A_MILLION_MARKS);
                 entries.add(ModItems.RAW_TINGJIEMINE);
+                entries.add(ModItems.TINGJIEINGOT);
 
                 entries.add(ModBlocks.TINGJIESTONE);
                 entries.add(ModBlocks.TINGJIECOBBLESTONE);
                 entries.add(ModBlocks.TINGJIESAND);
                 entries.add(ModBlocks.TINGJIELOG);
-                entries.add(ModBlocks.TINGJIELEAVES);
+                entries.add(ModBlocks.TINGJIELEAVES);;
 
-    }).build());
+
+
+
+            }).build());
 
     public static void registerModItemGroups(){
 

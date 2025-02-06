@@ -1,6 +1,7 @@
 package name.xiaohaohao_mod.item;
 
 import name.xiaohaohao_mod.XiaohaohaoMod;
+import net.fabricmc.fabric.api.item.v1.FabricItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -10,8 +11,8 @@ public class ModItems {
 
     public static final Item HALF_A_MILLION_MARKS= registerItems("half-a-million-marks", new Item(new Item.Settings().maxCount(1)));
     public static final Item MONEY=registerItems("money",new Item(new Item.Settings()));
-    public static final Item RAW_TINGJIEMINE = registerItems("raw_tingjiemine", new Item(new Item.Settings().food(ModFoodComponents.RAW_TINGJIEMINE)));
-
+    public static final Item RAW_TINGJIEMINE = registerItems("raw_tingjiemine", new Item(new Item.Settings()));
+    public static final Item TINGJIEINGOT =registerItems("tingjieingot",new Item(new Item.Settings().food(ModFoodComponents.TINGJIEINGOT)));
 
 
 
