@@ -1,0 +1,13 @@
+{
+    "providers": [
+		{
+            "type": "bitmap",
+            "file": "minecraft:chars/ting.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uea01"
+            ]
+        }
+    ]
+}
