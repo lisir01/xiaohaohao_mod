@@ -6,7 +6,7 @@
   "block.xiaohaohao_mod.tingjiecobblestone": "tingJie cobblestone",
   "block.xiaohaohao_mod.tingjielog": "tingJie log",
   "block.xiaohaohao_mod.tingjieleaves": "tingjie leaves",
-  "block.xiaohaohao_mod.tingjiesand": "婷姐沙子",
+  "block.xiaohaohao_mod.tingjiesand": "tingjie sand",
   "item.xiaohaohao_mod.raw_tingjiemine": "raw Tingium",
   "item.xiaohaohao_mod.tingjieingot": "Tingium",
   "block.xiaohaohao_mod.tingjieore": "white Tingium ore",
@@ -25,5 +25,9 @@
   "painting.xiaohaohao_mod.james_proud.title": "Smug James.",
   "painting.xiaohaohao_mod.james_proud.author": "xiaohaohao",
   "painting.xiaohaohao_mod.james_doubt.title": "James, who doubted.",
-  "painting.xiaohaohao_mod.james_doubt.author": "xiaohaohao"
+  "painting.xiaohaohao_mod.james_doubt.author": "xiaohaohao",
+  "painting.xiaohaohao_mod.tingium.title": "Tingium introductory abridged version",
+  "painting.xiaohaohao-mod.tingium.author": "suger_li",
+  "painting.xiaohaohao_mod.tingium1.title": "Tingium introduces the detailed version",
+  "painting.xiaohaohao-mod.tingium1.author": "suger_li"
 }

@@ -13,6 +13,7 @@ public class ModItems {
     public static final Item MONEY=registerItems("money",new Item(new Item.Settings()));
     public static final Item RAW_TINGJIEMINE = registerItems("raw_tingjiemine", new Item(new Item.Settings()));
     public static final Item TINGJIEINGOT =registerItems("tingjieingot",new Item(new Item.Settings().food(ModFoodComponents.TINGJIEINGOT)));
+    public static final Item CAMERA = registerItems("camera",new Item(new Item.Settings()));
 
 
 

@@ -27,6 +27,7 @@ public class ModItemGroups {
                 entries.add(ModItems.TINGJIEINGOT);
                 entries.add(ModBlocks.BLACK_TINGJIEORE);
                 entries.add(ModBlocks.TINGJIEORE);
+                entries.add(ModItems.CAMERA);
 
 
 
