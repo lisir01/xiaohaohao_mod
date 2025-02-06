@@ -21,12 +21,15 @@ public class ModItemGroups {
                 entries.add(ModBlocks.TINGJIECOBBLESTONE);
                 entries.add(ModBlocks.TINGJIESAND);
                 entries.add(ModBlocks.TINGJIELOG);
-                entries.add(ModBlocks.TINGJIELEAVES);;
+                entries.add(ModBlocks.TINGJIELEAVES);
 
-                entries.add(ModItems.RAW_TINGJIEMINE);
-                entries.add(ModItems.TINGJIEINGOT);
+
                 entries.add(ModBlocks.BLACK_TINGJIEORE);
                 entries.add(ModBlocks.TINGJIEORE);
+                entries.add(ModItems.RAW_TINGJIEMINE);
+                entries.add(ModItems.TINGJIEINGOT);
+                entries.add(ModItems.TINGJIENUGGET);
+                entries.add(ModBlocks.TINGJIEBLOCK);
                 entries.add(ModItems.CAMERA);
 
 

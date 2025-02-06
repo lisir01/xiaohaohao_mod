@@ -25,7 +25,7 @@ public class ModBlocks {
     public static final Block TINGJIESAND = register("tingjiesand", new ColoredFallingBlock(new ColorCode(14406560), AbstractBlock.Settings.create().mapColor(MapColor.PALE_YELLOW).instrument(NoteBlockInstrument.SNARE).strength(0.5F).sounds(BlockSoundGroup.SAND)));
     public static final Block TINGJIEORE = register("tingjieore",new Block(AbstractBlock.Settings.create().strength(3.5f,3.0f)));
     public static final Block BLACK_TINGJIEORE =register("black_tingjieore",new Block(AbstractBlock.Settings.create().strength(5.0f,3.0f)));
-
+    public static final Block TINGJIEBLOCK=register("tingjieblock",new Block(AbstractBlock.Settings.create().strength(5.5f,6.0f)));
 
 
 //    以下是原木注册调用的方法
