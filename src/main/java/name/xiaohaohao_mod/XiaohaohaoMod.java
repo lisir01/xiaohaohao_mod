@@ -3,6 +3,7 @@ package name.xiaohaohao_mod;
 import name.xiaohaohao_mod.block.ModBlocks;
 import name.xiaohaohao_mod.item.ModItemGroups;
 import name.xiaohaohao_mod.item.ModItems;
+import name.xiaohaohao_mod.sound.ModSoundEvents;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -25,6 +26,7 @@ public class XiaohaohaoMod implements ModInitializer {
 		ModItems.registerModItems();
 		ModItemGroups.registerModItemGroups();
 		ModBlocks.registerModBlocks();
+		ModSoundEvents.registerModSoundEvents();
 		LOGGER.info("这个，这个，还有这个，统统启动！");
 	}
 }

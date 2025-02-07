@@ -2,7 +2,6 @@ package name.xiaohaohao_mod.item;
 
 import name.xiaohaohao_mod.XiaohaohaoMod;
 import name.xiaohaohao_mod.block.ModBlocks;
-import net.minecraft.entity.Entity;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.*;
@@ -31,6 +30,7 @@ public class ModItemGroups {
                 entries.add(ModItems.TINGJIENUGGET);
                 entries.add(ModBlocks.TINGJIEBLOCK);
                 entries.add(ModItems.CAMERA);
+                entries.add(ModItems.MUSIC_PZSDBD);
 
 
 

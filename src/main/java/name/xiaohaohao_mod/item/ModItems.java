@@ -1,11 +1,12 @@
 package name.xiaohaohao_mod.item;
 
 import name.xiaohaohao_mod.XiaohaohaoMod;
-import net.fabricmc.fabric.api.item.v1.FabricItem;
+import name.xiaohaohao_mod.sound.ModJukeboxSongs;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.Rarity;
 
 public class ModItems {
 
@@ -15,7 +16,7 @@ public class ModItems {
     public static final Item TINGJIEINGOT =registerItems("tingjieingot",new Item(new Item.Settings().food(ModFoodComponents.TINGJIEINGOT)));
     public static final Item CAMERA = registerItems("camera",new Item(new Item.Settings().maxCount(1)));
     public static final Item TINGJIENUGGET=registerItems("tingjienugget",new Item(new Item.Settings()));
-
+    public static final Item MUSIC_PZSDBD =registerItems("music_pzsdbd",new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.PZSDBD)));
 
 
 
