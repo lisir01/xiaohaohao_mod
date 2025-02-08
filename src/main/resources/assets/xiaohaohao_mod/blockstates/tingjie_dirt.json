@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "xiaohaohao_mod:block/tingjie_dirt"
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjie_dirt",
+        "y": 90
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjie_dirt",
+        "y": 180
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjie_dirt",
+        "y": 270
+      }
+    ]
+  }
+}

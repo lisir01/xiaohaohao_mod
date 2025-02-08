@@ -1,0 +1,23 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"0": "xiaohaohao_mod:block/tingjie_dirt",
+		"1": "xiaohaohao_mod:block/tingjie_grass_block_side",
+		"2": "xiaohaohao_mod:block/tingjie_grass_block_top",
+		"particle": "xiaohaohao_mod:block/tingjie_dirt"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

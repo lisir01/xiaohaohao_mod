@@ -21,6 +21,8 @@ public class ModItemGroups {
                 entries.add(ModBlocks.TINGJIESAND);
                 entries.add(ModBlocks.TINGJIELOG);
                 entries.add(ModBlocks.TINGJIELEAVES);
+                entries.add(ModBlocks.TINGJIE_GRASS_BLOCK);
+                entries.add(ModBlocks.TINGJIE_DIRT);
 
 
                 entries.add(ModBlocks.BLACK_TINGJIEORE);

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "xiaohaohao_mod:block/tingjie_grass_block"
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjie_grass_block",
+        "y": 90
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjie_grass_block",
+        "y": 180
+      },
+      {
+        "model": "xiaohaohao_mod:block/tingjie_grass_block",
+        "y": 270
+      }
+    ]
+  }
+}
