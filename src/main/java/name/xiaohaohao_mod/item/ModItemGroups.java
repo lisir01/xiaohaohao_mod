@@ -29,6 +29,12 @@ public class ModItemGroups {
                 entries.add(ModItems.TINGJIEINGOT);
                 entries.add(ModItems.TINGJIENUGGET);
                 entries.add(ModBlocks.TINGJIEBLOCK);
+                entries.add(ModItems.OXIDIZED_RAW_TINHJIEMINE);
+                entries.add(ModItems.OXIDIZED_TINGJIEINGOT);
+                entries.add(ModItems.OXIDIZED_TINGJIENUGGET);
+                entries.add(ModBlocks.OXIDZED_TINGJIEBLOCK);
+
+
                 entries.add(ModItems.CAMERA);
                 entries.add(ModItems.MUSIC_PZSDBD);
 

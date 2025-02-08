@@ -26,7 +26,7 @@ public class ModBlocks {
     public static final Block TINGJIEORE = register("tingjieore",new Block(AbstractBlock.Settings.create().requiresTool().strength(3.5f,3.0f)));
     public static final Block BLACK_TINGJIEORE =register("black_tingjieore",new Block(AbstractBlock.Settings.create().requiresTool().strength(5.0f,3.0f)));
     public static final Block TINGJIEBLOCK=register("tingjieblock",new Block(AbstractBlock.Settings.create().requiresTool().strength(5.5f,6.0f)));
-
+    public static final Block OXIDZED_TINGJIEBLOCK=register("oxidized_tingjieblock",new Block(AbstractBlock.Settings.create().requiresTool().strength(5.5f,6.0f)));
 
 //    以下是原木注册调用的方法
     public static Block createLogBlock(MapColor topMapColor, MapColor sideMapColor) {

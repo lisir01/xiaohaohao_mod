@@ -12,8 +12,11 @@
   "block.xiaohaohao_mod.tingjieore": "白\uea01矿",
   "block.xiaohaohao_mod.black_tingjieore": "黑\uea01矿",
   "block.xiaohaohao_mod.tingjieblock": "\uea01块",
-  "item.xiaohaohao_mod.camera": "照相机",
-  "item.xiaohaohao_mod.tingjienugget": "\uea01粒",
+  "item.xiaohaohao_mod.tingjienugget": "氧化\uea01粒",
+  "item.xiaohaohao_mod.oxidized_raw_tingjiemine": "氧化粗\uea01矿",
+  "item.xiaohaohao_mod.oxidized_tingjieingot": "氧化\uea01锭",
+  "block.xiaohaohao_mod.oxidized_tingjieblock": "氧化\uea01块",
+  "item.xiaohaohao_mod.oxidized_tingjienugget": "氧化\uea01粒",
 
 
 
@@ -28,6 +31,7 @@
   "item.xiaohaohao_mod.music_pzsdbd": "66666",
   "jukebox_song.xiaohaohao_mod.pzsdbd": "演都不演了是吧",
 
+  "item.xiaohaohao_mod.camera": "照相机",
 
   "painting.xiaohaohao_mod.james_call.title": "正在通话的覃俊豪",
   "painting.xiaohaohao_mod.james_call.author": "豪某人",

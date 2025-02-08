@@ -12,8 +12,12 @@
   "block.xiaohaohao_mod.tingjieore": "white Tingium ore",
   "block.xiaohaohao_mod.black_tingjieore": "balck Tingium ore",
   "block.xiaohaohao_mod.tingjieblock": "Tingium block",
-  "item.xiaohaohao_mod.camera": "camera",
   "item.xiaohaohao_mod.tingjienugget": "Tingium nugget",
+  "item.xiaohaohao_mod.oxidized_raw_tingjiemine": "oxidized raw Tingium",
+  "item.xiaohaohao_mod.oxidized_tingjieingot": "oxidized Tingium",
+  "block.xiaohaohao_mod.oxidized_tingjieblock": "oxidized Tingium block",
+  "item.xiaohaohao_mod.oxidized_tingjienugget": "oxidized Tingium nugget",
+
 
 
 
@@ -28,6 +32,7 @@
   "item.xiaohaohao_mod.music_pzsdbd": "66666",
   "jukebox_song.xiaohaohao_mod.pzsdbd": "演都不演了是吧",
 
+  "item.xiaohaohao_mod.camera": "camera",
 
   "painting.xiaohaohao_mod.james_call.title": "James is on the phone.",
   "painting.xiaohaohao_mod.james_call.author": "xiaohaohao",
