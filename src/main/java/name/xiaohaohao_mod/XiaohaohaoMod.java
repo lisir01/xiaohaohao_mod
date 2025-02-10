@@ -6,6 +6,7 @@ import name.xiaohaohao_mod.item.ModItems;
 import name.xiaohaohao_mod.sound.ModSoundEvents;
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FlammableBlockRegistry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -27,6 +28,11 @@ public class XiaohaohaoMod implements ModInitializer {
 		ModItemGroups.registerModItemGroups();
 		ModBlocks.registerModBlocks();
 		ModSoundEvents.registerModSoundEvents();
+
+
+		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.TINGJIELOG,5,5);
+		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.TINGJIELEAVES,30,60);
+
 		LOGGER.info("这个，这个，还有这个，统统启动！");
 	}
 }
